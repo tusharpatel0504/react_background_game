@@ -18,6 +18,9 @@ A simple and fun web app built with **React** and **Tailwind CSS** that lets you
 - [Tailwind CSS](https://tailwindcss.com/)
 - JavaScript
 
+
+## 📸 Demo
+
 ![image](https://github.com/user-attachments/assets/38f138da-83c2-4290-a9f0-c1b01d1d4d0e)
 
 ## 🧠 What I Learned
