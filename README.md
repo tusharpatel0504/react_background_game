@@ -44,9 +44,4 @@ A simple and fun web app built with **React** and **Tailwind CSS** that lets you
    git clone https://github.com/tusharpatel0504/react_background_game
    cd BgChanges
    npm install
-   npm start
-
-
-
-
-
+   npm run dev
